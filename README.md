@@ -1,4 +1,4 @@
 # TestingRepo
 My firs testing repo
 Catchout
-finishing
+finishing my reading trieal

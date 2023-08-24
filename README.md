@@ -10,8 +10,6 @@ finishing my reading trieal
 CODEROVKA# TestingRepo
 CODEROVKA# TestingRepo# TestingRepo
 Catchout
-finishing my reading trieal
-CODEROVKA# TestingRepo
 # TestingRepo
 My firs testing repo
 Catchout

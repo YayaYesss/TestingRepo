@@ -7,7 +7,7 @@ CODEROVKA# TestingRepo
 CODEROVKA# TestingRepo# TestingRepo
 # TestingRepo
 finishing my reading trieal
-My firs testing repo
+My firs testing r
 Catchout
 finishing my reading trieal
 CODEROVKA# TestingRepo

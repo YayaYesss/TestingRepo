@@ -11,7 +11,7 @@ My firs testing r
 Catchout
 finishing my reading trieal
 CODEROVKA# TestingRepo
-CODEROVKA# TestingR
+CODEROVKA# Testin
 My firs testing repo
 
 My firs testing repo

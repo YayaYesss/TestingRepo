@@ -1,7 +1,7 @@
 # TestingRepo
 My firs testing repo
 Catchout
-finishing my reading trieal
+finishing my reading trie
 CODEROVKA# Testing
 CODEROVKA# TestingRepo# TestingRepo
 # TestingRepo

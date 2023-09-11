@@ -4,7 +4,7 @@ Catchout
 finishing my reading trie
 CODEROVKA# Testing
 CODEROVKA# TestingRepo# TestingRepo
-# TestingRepo
+# TestingR
 finishing my reading trieal
 CODEROVKA# TestingRepo
 My firs testing repo

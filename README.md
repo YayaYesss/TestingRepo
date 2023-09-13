@@ -6,7 +6,7 @@ CODEROVKA# Testing
 CODEROVKA# TestingRepo#ingRepo
 # TestingR
 finishing my reading trieal
-CODEROVKA# TestingRepo
+CODEROVKA# TestingR
 My firs testing repo
 
 My firs testing repo

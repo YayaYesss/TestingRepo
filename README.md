@@ -3,5 +3,5 @@ My firs testing repo
 Catchout
 finishing my reading trie
 CODEROVKA# Test
-CODEROVKA# TestingRepo#ingRepo
+CODEROVKA# TestingRepo#ingR
 My firs testing 

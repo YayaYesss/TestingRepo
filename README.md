@@ -4,4 +4,4 @@ Catchout
 finishing my reading trie
 CODEROVKA# Test
 CODEROVKA# TestingRepo#ingR
-My firs testing 
+My firs test

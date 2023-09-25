@@ -14,5 +14,5 @@ telessWid
 telessWidget {
 }
 class MyApp extends StatelessWidget {
-  Widget build(BuildContext context) {zero; the application
+  Widget build(BuildContext context) {zero; the applica
         // is not restarted.

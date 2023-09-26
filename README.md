@@ -13,6 +13,3 @@ telessWid
   // This widget is the root of your appl
 telessWidget {
 }
-class MyApp extends StatelessWidget {
-  Widget build(BuildContext context) {zero; the applica
-        // is not restarted.

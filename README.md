@@ -11,5 +11,4 @@ telessWid
         // is not restar
 telessWid
   // This widget is the root of your appl
-telessWidget {
-}
+telessWidget

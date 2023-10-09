@@ -7,8 +7,6 @@ CODEROVKA# Testimport 'package:flutter/material.da
         // is not restar
 telessWidick.waitForXPath(clickSelector);
                             await Promiswai1NetworkIdl
-                    }
-ctor1, elemeelector2, elementSelector3, 
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
         const accountNumber = daa.profiles[i].account_numb
 iles[i].id;

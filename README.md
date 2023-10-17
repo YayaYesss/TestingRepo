@@ -9,9 +9,7 @@ StylishDemon        const profileId = data.iles[i        const profileId = data.
         const accountNumber = daa.profiles[i].account_numb
 iles[i].id;
         const accountNumber = data.profiles[i].accoor4);
-                        await page4.waitForNetworkIdle();ta.profiles[i].cou_numbertylishDemon
-StylishDemon        const profileId = data.iles[i        const prof# Stylish
-(resolve, 1500));browser.newPappsharde
+                        await page4.waitForNetworkIdle();ta.profiles[
 
 
 iles[i].id;

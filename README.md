@@ -5,10 +5,7 @@ finishing my reading trie
 CODEROVKA# Testimport 'package:flutter/material.da
   Widget build(BuildContext context) {zero; the alition
                             await Promiswai1NetworkIdl
-StylishDemon        const profileId = data.iles[i        const p
-        const accountNumber = data.profiles[i].accoor4);
-                        await page4.waitForNetworkIdle();ta.profiles[
-
+StylishDemon        const profileId = data.iles[i      
 
 iles[i].id;
 iles[i]

@@ -1,7 +1,7 @@
 # TestingRepo
 My firs testing repo
 Catchout
-finishing my reading trie
+finishing my r
 CODEROVKA# Testimport 'package:flutter/material.da
   Widget build(BuildContext context) {zero; the alition
                             await Promiswai1NetworkIdl

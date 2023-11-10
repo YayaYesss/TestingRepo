@@ -1,7 +1,4 @@
 
-Catchout'puh(clickSelpage4.waitForNetworkIdle();ta.profiles[i].cou_numbert
-
-
 iles[i].id;
 iles[i]d;   
 count_number;= data.profiles[i]

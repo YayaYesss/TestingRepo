@@ -3,8 +3,7 @@ iles[i].id;
 iles[i]d;   
 count_number;= data.profiles[i]
         const accountNumber = daa.profiles[i].account_number;
-        const profilePassword = data.profiles[i].p
-                            await Promiswta.iles[i      
+        const profilePassword = data.profi.iles[i      
 
         const profilePassword = da.profile[i].password;  er;
         const profilePassword = data.profiles[i].passw
